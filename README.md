@@ -137,6 +137,7 @@
 - [Bulk extractor](https://github.com/simsong/bulk_extractor)
 - [Disk Clone and ISO Image Acquire](https://guymager.sourceforge.io/)
 - [Toolsley](https://www.toolsley.com/)
+- [Stellastra DMARC Analysis](https://stellastra.com/email-deliverability-check)
 ### Payload creation tools
 ![](https://github.com/CodingRanjith/cybersec/blob/main/cs/h9.jpg)
 - [The FatRat](https://github.com/Screetsec/TheFatRat)
